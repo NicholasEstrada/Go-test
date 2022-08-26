@@ -1,6 +1,6 @@
 # <h1 align="center"> Busca sobre tecnologia Go </h1>
 <h4 align="center"> 
-    :construction:  de aprendizado curso em andamento  :construction:
+    :construction:  de aprendizado autodidata em andamento  :construction:
 </h4>
 
 - Aprendizados desenvolvidos
